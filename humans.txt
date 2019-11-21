@@ -15,5 +15,7 @@
 
     cloud HTML5, CSS3 ,css5 Ajax
     docker,kubernets
+    devops HTML5, CSS3 ,css5 Ajax
+    docker,kubernets
     jQuery, Modernizr
 	machine learning,AWS
