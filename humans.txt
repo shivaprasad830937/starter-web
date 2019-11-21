@@ -6,7 +6,7 @@
     shivaprasad 
 	devops engineeer
 	since 4 years
-	
+	going to learn solution archtect ,developer,sysops
 	doing some changes here
  testing for new file for stash untracked files
 # THANKS
