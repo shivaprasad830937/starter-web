@@ -5,6 +5,7 @@
 
     shivaprasad 
 	devops engineeer
+	since 4 years
 
 # THANKS
 
@@ -13,4 +14,5 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3 ,css5 Ajax
+docker,kubernets
     jQuery, Modernizr
