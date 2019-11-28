@@ -19,3 +19,4 @@
     docker,kubernets
     jQuery, Modernizr
 	machine learning,AWS
+	AWS solution architcet developer
