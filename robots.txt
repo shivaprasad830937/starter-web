@@ -1,4 +1,0 @@
-# robotstxt.org/
-hi this is editing for the merging conflicts so 
-that file 
-User-agent: *
